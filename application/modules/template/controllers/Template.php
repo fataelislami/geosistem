@@ -18,4 +18,9 @@ class Template extends MY_Controller{
 
   }
 
+  function loadfront($data=NULL){
+    $this->load->view('full_front', $data);
+
+  }
+
 }
