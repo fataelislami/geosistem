@@ -176,7 +176,7 @@
                                           </ul>
                                     </div>
                                     <div class="text-center">
-                                        <h4 class="font-weight-600">&copy;  2019 7xtheme</h4>
+                                        <h4 class="font-weight-600">&copy;  2019 Geosistem</h4>
                                     </div>
                                  </div>
                             </div>
@@ -196,35 +196,21 @@
                         <div class="header-nav navbar-collapse collapse">
                                 <ul class=" nav navbar-nav">
                                     <li class="active">
-                                        <a href="<?= base_url()?>assets-front/javascript:;">Home</a>
-                                     <ul class="sub-menu">
+                                        <a href="<?= base_url()?>">Home</a>
 
-                                            <li>
-                                                <a href="<?= base_url()?>assets-front/index.html">Home-1</a>
-                                            </li>
-                                            <li>
-                                                <a href="<?= base_url()?>assets-front/index-2.html">Home-2</a>
-                                            </li>
-                                            <li>
-                                                <a href="<?= base_url()?>assets-front/index-3.html">Home-3 boxed style</a>
-                                            </li>
-                                            <li>
-                                                <a href="<?= base_url()?>assets-front/index-4.html">Home-4</a>
-                                            </li>
-                                        </ul>
                                     </li>
 
                                     <li>
-                                        <a href="<?= base_url()?>assets-front/about-1.html">About us</a>
+                                        <a href="<?= base_url()?>front/about_us">About us</a>
                                     </li>
                                     <li>
-                                        <a href="<?= base_url()?>assets-front/services.html">Product</a>
+                                        <a href="<?= base_url()?>front/project">Product</a>
                                     </li>
                                     <li>
-                                        <a href="<?= base_url()?>assets-front/services.html">Services</a>
+                                        <a href="<?= base_url()?>front/services">Services</a>
                                     </li>
                                     <li>
-                                        <a href="<?= base_url()?>assets-front/javascript:;">Experiences</a>
+                                        <a href="#">Experiences</a>
                                         <ul class="sub-menu">
                                             <li>
                                                 <a href="<?= base_url()?>assets-front/javascript:;">Blog</a>
@@ -235,10 +221,10 @@
                                                 </ul>
                                             </li>
                                             <li>
-                                                <a href="<?= base_url()?>assets-front/faq.html">Customers</a>
+                                                <a href="#">Customers</a>
                                             </li>
                                             <li>
-                                                <a href="<?= base_url()?>assets-front/error-404.html">Publications</a>
+                                                <a href="#">Publications</a>
                                             </li>
                                             <li>
                                                 <a href="<?= base_url()?>assets-front/contact-1.html">News and Events</a>
@@ -246,13 +232,8 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="<?= base_url()?>assets-front/javascript:;">Contact</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="<?= base_url()?>assets-front/post-image.html">Post Image</a></li>
-                                            <li><a href="<?= base_url()?>assets-front/post-gallery.html">Post Gallery</a></li>
-                                            <li><a href="<?= base_url()?>assets-front/post-video.html">Post Video</a></li>
-                                            <li><a href="<?= base_url()?>assets-front/post-right-sidebar.html">Post Right Sidebar</a></li>
-                                        </ul>
+                                        <a href="<?= base_url()?>front/contact_us">Contact</a>
+
                                     </li>
 
 
@@ -353,7 +334,7 @@
                                               </ul>
                                         </div>
                                         <div class="text-center">
-                                            <h4 class="font-weight-600">&copy;  2019 7xtheme</h4>
+                                            <h4 class="font-weight-600">&copy;  2019 Geosistem</h4>
                                         </div>
                                      </div>
                                 </div>
@@ -372,63 +353,29 @@
                             <div class="header-nav navbar-collapse collapse">
                                 <ul class=" nav navbar-nav">
                                   <li class="active">
-                                      <a href="<?= base_url()?>assets-front/javascript:;">Home</a>
-                                   <ul class="sub-menu">
-
-                                          <li>
-                                              <a href="<?= base_url()?>assets-front/index.html">Home-1</a>
-                                          </li>
-                                          <li>
-                                              <a href="<?= base_url()?>assets-front/index-2.html">Home-2</a>
-                                          </li>
-                                          <li>
-                                              <a href="<?= base_url()?>assets-front/index-3.html">Home-3 boxed style</a>
-                                          </li>
-                                          <li>
-                                              <a href="<?= base_url()?>assets-front/index-4.html">Home-4</a>
-                                          </li>
-                                      </ul>
+                                      <a href="<?= base_url()?>">Home</a>
                                   </li>
 
                                   <li>
-                                      <a href="<?= base_url()?>assets-front/about-1.html">About us</a>
+                                      <a href="<?= base_url()?>front/about_us">About us</a>
                                   </li>
                                   <li>
-                                      <a href="<?= base_url()?>assets-front/services.html">Product</a>
+                                      <a href="<?= base_url()?>front/project">Product</a>
                                   </li>
                                   <li>
-                                      <a href="<?= base_url()?>assets-front/services.html">Services</a>
+                                      <a href="<?= base_url()?>front/services">Services</a>
                                   </li>
                                   <li>
-                                      <a href="<?= base_url()?>assets-front/javascript:;">Experiences</a>
-                                      <ul class="sub-menu">
-                                          <li>
-                                              <a href="<?= base_url()?>assets-front/javascript:;">Blog</a>
-                                              <ul class="sub-menu has-child">
-                                                  <li><a href="<?= base_url()?>assets-front/blog-grid.html">Blog Grid</a></li>
-                                                  <li><a href="<?= base_url()?>assets-front/blog-listing.html">Blog Listing</a></li>
-                                                  <li><a href="<?= base_url()?>assets-front/blog-masonry.html">Blog Masonry</a></li>
-                                              </ul>
-                                          </li>
-                                          <li>
-                                              <a href="<?= base_url()?>assets-front/faq.html">Customers</a>
-                                          </li>
-                                          <li>
-                                              <a href="<?= base_url()?>assets-front/error-404.html">Publications</a>
-                                          </li>
-                                          <li>
-                                              <a href="<?= base_url()?>assets-front/contact-1.html">News and Events</a>
-                                          </li>
-                                      </ul>
+                                      <a href="#">Experiences</a>
                                   </li>
                                   <li>
-                                      <a href="<?= base_url()?>assets-front/javascript:;">Contact</a>
-                                      <ul class="sub-menu">
-                                          <li><a href="<?= base_url()?>assets-front/post-image.html">Post Image</a></li>
-                                          <li><a href="<?= base_url()?>assets-front/post-gallery.html">Post Gallery</a></li>
-                                          <li><a href="<?= base_url()?>assets-front/post-video.html">Post Video</a></li>
-                                          <li><a href="<?= base_url()?>assets-front/post-right-sidebar.html">Post Right Sidebar</a></li>
-                                      </ul>
+                                      <a href="<?= base_url()?>front/contact">Contact</a>
+                                  </li>
+                                  <li>
+                                      <a href="#">Publications</a>
+                                  </li>
+                                  <li>
+                                      <a href="<?= base_url() ?>front/news">News and Events</a>
                                   </li>
                                 </ul>
                             </div>
