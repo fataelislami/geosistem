@@ -703,7 +703,7 @@
                                                 <a href="<?= base_url()?>product" class="site-button-link" data-hover="Detail">Detail <i class="fa fa-angle-right arrow-animation"></i></a>
                                             </div>
                                         </div>
-                                        <div class="bg-cover  half-blocks-bg" style="background-image:url(<?= base_url()?>xfile/home/home1.JPG)"></div>
+                                        <div class="bg-cover  half-blocks-bg" style="background-image:url(<?= base_url()?>xfile/home/home1.jpg)"></div>
                                     </div>
                                 </div>
 
