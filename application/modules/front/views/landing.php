@@ -903,8 +903,16 @@
                                     <!-- TITLE START -->
                                     <div class="video-part-2">
                                             <h3>One Stop Service<span class="font-weight-100"> Solution</span></h3>
-     										<p  style="text-align:justify">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.there are many 																				                                                     variations of passages of Ipsum available,</p>
-
+     										<p  style="text-align:justify">To ensure optimum exeoution of all ground improvement techniques from technical and economic point of view, GEOSISTEM provides a full range of complementary senvices. This inciudes the following :</p>
+                                    <ul class="list-angle-right anchor-line">
+                                      <li>Geotechnical Investigations</li>
+                                      <li>Preliminary Design</li>
+                                      <li>Detailed Design</li>
+                                      <li>Technical Presentation</li>
+                                      <li>Impiementation of Ground Improvement and Geosynthetic Application Works</li>
+                                      <li>Geotechnical Instrumentation and Monitoring</li>
+                                      <li>Evaluation and Final Reporting</li>
+                                    </ul>
                                     </div>
                                     <!-- TITLE END -->
                                     <div class="author-info author-info-v2 p-t20">
