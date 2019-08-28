@@ -15,6 +15,10 @@ background:#0c733a
 .project-classic .mt-title::before ,.img-center-icon .overlay-bx .overlay-icon a , .footer-light .social-icons li a:hover  {
 	background-color: #0c733a
 }
+.mt-separator:after,.sep-line-one:after,.mt-separator:before{
+	background-color: #FFFFFF
+
+}
 .overlay-icon a:hover {
 	background-color: #222
 }

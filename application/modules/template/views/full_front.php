@@ -229,7 +229,7 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="<?= base_url()?>front/contact_us">Contact</a>
+                                        <a href="<?= base_url()?>front/contact">Contact</a>
 
                                     </li>
 
