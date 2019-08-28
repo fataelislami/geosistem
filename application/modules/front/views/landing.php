@@ -734,7 +734,7 @@
                                         </div> -->
                                         <div class="icon-content">
                                             <h3 class="mt-tilte m-b25">Service</h3>
-                                            <p>lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident.</p>
+                                            <p>GEOSISTEM offers a comprehensive range of services which include site investigation, design proposal, execution of geosynthetic applications, geotechnical instrumentations and monitoring..</p>
                                             <a href="<?= base_url()?>front/services" class="site-button-link" data-hover="Detail">Detail <i class="fa fa-angle-right arrow-animation"></i></a>
                                         </div>
                                     </div>
