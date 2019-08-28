@@ -699,7 +699,23 @@
                                             </div> -->
                                             <div class="icon-content">
                                                 <h3 class="mt-tilte m-b25">Product</h3>
-                                                <p>lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident.</p>
+                                                <div class="row" style="padding-left:25px;padding-right:25px">
+                                                  <div class="col-md-6">
+                                                    <ul class="list-angle-right anchor-line" style="text-align:left">
+                                                      <li>Instrumentation</li>
+                                                      <li>Geosynthetic Clay Liners</li>
+                                                      <li>Geogrid</li>
+                                                    </ul>
+                                                  </div>
+                                                  <div class="col-md-6">
+                                                    <ul class="list-angle-right anchor-line" style="text-align:left">
+                                                      <li>Prefabricated Vertical Drain</li>
+                                                      <li>Geomembrane</li>
+                                                      <li>Geotextile</li>
+                                                    </ul>
+                                                  </div>
+                                                </div>
+
                                                 <a href="<?= base_url()?>product" class="site-button-link" data-hover="Detail">Detail <i class="fa fa-angle-right arrow-animation"></i></a>
                                             </div>
                                         </div>
@@ -719,7 +735,7 @@
                                         <div class="icon-content">
                                             <h3 class="mt-tilte m-b25">Service</h3>
                                             <p>lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident.</p>
-                                            <a href="<?= base_url()?>#" class="site-button-link" data-hover="Detail">Detail <i class="fa fa-angle-right arrow-animation"></i></a>
+                                            <a href="<?= base_url()?>front/services" class="site-button-link" data-hover="Detail">Detail <i class="fa fa-angle-right arrow-animation"></i></a>
                                         </div>
                                     </div>
                                     <div class="bg-cover  half-blocks-bg" style="background-image:url(<?= base_url()?>xfile/servicebg.jpg)"></div>
