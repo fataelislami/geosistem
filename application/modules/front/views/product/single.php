@@ -1,103 +1,52 @@
-<!-- INNER PAGE BANNER -->
-<div class="mt-bnr-inr overlay-wraper bg-parallax bg-top-center"  data-stellar-background-ratio="0.5"  style="background-image:url(<?= base_url()?>assets-front/images/banner/5.jpg);">
-  <div class="overlay-main bg-black opacity-07"></div>
-    <div class="container">
-        <div class="mt-bnr-inr-entry">
-          <div class="banner-title-outer">
-              <div class="banner-title-name">
-                <h2 class="m-b0">Helping you and your house become better acquainted.</h2>
-                </div>
-            </div>
-            <!-- BREADCRUMB ROW -->
-
-                <div>
-                    <ul class="mt-breadcrumb breadcrumb-style-2">
-                        <li><a href="javascript:void(0);">Home</a></li>
-                        <li>Project Detail</li>
-                    </ul>
-                </div>
-
-            <!-- BREADCRUMB ROW END -->
-        </div>
-    </div>
-</div>
-<!-- INNER PAGE BANNER END -->
-
+<hr>
 <!-- SECTION CONTENT START -->
-<div class="section-full p-tb80 inner-page-padding">
+<div class="section-full p-tb30 inner-page-padding">
   <div class="container">
+    <div class="section-head">
+    <div class="mt-separator-outer separator-left">
+      <div class="">
+        <h3 class="text-uppercase"><span class="font-weight-300 text-primary"></span>Instrumentation</h3>
+      </div>
+    </div>
+    </div>
         <div class="project-detail-outer">
-          <div class="m-b0">
-                <div class="row">
-                    <div class="col-md-4 col-sm-4">
-                        <div class="project-detail-pic m-b30">
-                            <div class="mt-media">
-                                <img src="<?= base_url()?>assets-front/images/projects/portrait/pic7.jpg" alt="">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                        <div class="project-detail-pic m-b30">
-                            <div class="mt-media">
-                                <img src="<?= base_url()?>assets-front/images/projects/portrait/pic4.jpg" alt="">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                        <div class="project-detail-pic m-b30">
-                            <div class="mt-media">
-                                <img src="<?= base_url()?>assets-front/images/projects/portrait/pic5.jpg" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+          <div class="section-full p-b50 bg-white mobile-page-padding">
+              <div class="container">
 
-          <div class="m-b30">
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="product-block">
-                            <div class="row">
-                              <div class="col-md-12 m-b10">
-                                <h4 class="text-uppercase font-weight-600 m-b10">Date</h4>
-                                <p>July 10, 2019</p>
+          <div class="section-content">
+                        <div class="row">
+                              <div class="col-md-7 col-sm-6">
+                                <div class="video-section-full-v2">
+                                      <div class="video-section-full bg-no-repeat bg-cover overlay-wraper m-b30" style="background-image:url(<?= base_url()?>xfile/product/geosynthetic.jpg);height:100%">
+                                          <div class="overlay-main bg-black opacity-04"></div>
+
+                                      </div>
+                                  </div>
                               </div>
-                              <div class="col-md-12 m-b10">
-                                <h4 class="text-uppercase font-weight-600 m-b10">Client</h4>
-                                <p>Studio Massimo, Italy</p>
-                               </div>
-                              <div class="col-md-12 m-b10">
-                                <h4 class="text-uppercase font-weight-600 m-b10">Project type</h4>
-                                <p>Contruction, Brading</p>
-                              </div>
-                              <div class="col-md-12 m-b10">
-                                <h4 class="text-uppercase font-weight-600 m-b10">Location</h4>
-                                <p>Mountain View CA 94043</p>
-                              </div>
-                              <div class="col-md-12 m-b10">
-                                <h4 class="text-uppercase font-weight-600 m-b10">Year</h4>
-                                <p>2019</p>
-                              </div>
-                          </div>
-                        </div>
-                    </div>
-                    <div class="col-md-8">
-                        <div class="mt-box">
-                            <div class="mt-thum-bx mt-img-overlay1 mt-img-effect yt-thum-box">
-                                <img src="https://img.youtube.com/vi/OfFFZnOtqFQ/0.jpg" alt="">
-                                <a href="https://www.youtube.com/watch?v=OfFFZnOtqFQ" class="mfp-video play-now">
-                                    <i class="icon fa fa-play"></i>
-                                    <span class="ripple"></span>
-                                </a>
+                            <div class="col-md-5 col-sm-6">
+                                  <!-- TITLE START -->
+                                  <div class="video-part-2">
+                                          <h3><span class="font-weight-100"> </span></h3>
+                      <p  style="text-align:justify">Geotechnical instnument are necessary deemed to oontrol any manageable problems within the process of reclamation
+and soil improvement. There are two types ofinstruments. Some fulfil the Category A measurements, others the
+Category B measurements, and some both types of measurements.
+<br>
+<br>
+Type A : Measurements of ground behavior during construction : settlement pad, inclinometer, pore pressure transducer,
+and earth pressure cell.
+<br>
+Type B : Monitoning of performance of ground during loading, unloading, and soil improvement ; settlement plate, deep
+settlement gauge, muitlevel settlement gauge, pore
+pressure transducer, earth pressure cell, and inclinometer,.</p>
+<button class="m-b15 site-button btn-effect m-r15 text-uppercase" type="button">Download Brochure</button>
+                                  </div>
+                                  <!-- TITLE END -->
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-
-            <div class="project-detail-containt">
+                      </div>
+                     </div>
+               </div>
+          </div>
+            <!-- <div class="project-detail-containt">
                 <div class="bg-white text-black">
                     <h3 class="font-weight-600">Creating a sustainable future through building preservation, green architecture, and smart design</h3>
                     <p> Designers think everything done by someone else is awful, and that they could do it better themselves, which explains why I designed my own living room carpet, I suppose. the architect represents neither a Dionysian nor an Apollinian condition: here it is the mighty act of will, the will which moves mountains, the intoxication of the strong will, which demands artistic expression. The most powerful men have always inspired the architects; the architect has always been influenced by power.</p>
@@ -116,7 +65,7 @@
                         <li><a href="javascript:void(0);" class="fa fa-instagram"></a></li>
                     </ul>
                 </div>
-            </div>
+            </div> -->
 
         </div>
     </div>
@@ -124,9 +73,8 @@
 <!-- SECTION CONTENT END  -->
 
 <!-- Similar projects START -->
-<div class="section-full p-t80 p-b30 bg-dark bg-repeat square_shape2 bg-moving" style="background-image:url(<?= base_url()?>assets-front/images/background/bg-6.png)">
+<!-- <div class="section-full p-t80 p-b30 bg-dark bg-repeat square_shape2 bg-moving" style="background-image:url(<?= base_url()?>assets-front/images/background/bg-6.png)">
     <div class="container">
-        <!-- TITLE START -->
 <div class="section-head">
 <div class="mt-separator-outer separator-center">
   <div class="mt-separator">
@@ -134,64 +82,53 @@
   </div>
 </div>
 </div>
-        <!-- TITLE END -->
 </div>
 <div class="section-content container-fluid">
 
                 <div class="similar-carousel-outer">
                     <div class="owl-carousel similar-projects owl-btn-vertical-center">
-                        <!-- COLUMNS 1 -->
                         <div class="item mt-box">
                             <div class="mt-img-effect mt-img-overlay7">
                                 <img src="<?= base_url()?>assets-front/images/projects/square/pic4.jpg" alt="">
                            </div>
                             <div class="mt-info p-a30">
                                 <h4 class="m-b20 m-t0"><a href="javascript:void(0);">Delivering architecture, planning, and design.</a></h4>
-                                <p>Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim</p>
                                 <a href="#" class="site-button btn-effect">Read More</a>
                             </div>
                         </div>
-                        <!-- COLUMNS 2 -->
                         <div class="item mt-box">
                             <div class="mt-img-effect mt-img-overlay7">
                                 <img src="<?= base_url()?>assets-front/images/projects/square/pic7.jpg" alt="">
                            </div>
                                 <div class="mt-info p-a30">
                                     <h4 class="m-b20 m-t0"><a href="javascript:void(0);">Capitalizing on the unique qualities of each place.</a></h4>
-                                    <p>Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim</p>
                                     <a href="#" class="site-button btn-effect">Read More</a>
                                 </div>
                         </div>
-                        <!-- COLUMNS 3 -->
                         <div class="item mt-box">
                             <div class="mt-img-effect mt-img-overlay7">
                                 <img src="<?= base_url()?>assets-front/images/projects/square/pic5.jpg" alt="">
                            </div>
                                 <div class="mt-info p-a30">
                                     <h4 class="m-b20 m-t0"><a href="javascript:void(0);">Delivering architecture, planning, and design.</a></h4>
-                                   <p>Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim</p>
                                     <a href="#" class="site-button btn-effect">Read More</a>
                                 </div>
                         </div>
-                        <!-- COLUMNS 4 -->
                         <div class="item mt-box">
                             <div class="mt-img-effect mt-img-overlay7">
                                 <img src="<?= base_url()?>assets-front/images/projects/square/pic6.jpg" alt="">
                            </div>
                                 <div class="mt-info  p-a30">
                                     <h4 class="m-b20 m-t0"><a href="javascript:void(0);">Improving quality of life with an integrated unified.</a></h4>
-                                    <p>Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim</p>
                                     <a href="#" class="site-button btn-effect">Read More</a>
                                 </div>
                         </div>
-                        <!-- COLUMNS 5 -->
                         <div class="item mt-box">
                             <div class="mt-img-effect mt-img-overlay7">
                                 <img src="<?= base_url()?>assets-front/images/projects/square/pic3.jpg" alt="">
                            </div>
                                 <div class="mt-info p-a30">
                                     <h4 class="m-b20 m-t0"><a href="javascript:void(0);">Unique solutions for your home through.</a></h4>
-                                    <p>Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim</p>
                                     <a href="#" class="site-button btn-effect">Read More</a>
                                 </div>
                         </div>
@@ -203,5 +140,5 @@
     <div class="hilite-title text-left p-l50 text-uppercase hilite-dark">
         <strong>projects</strong>
     </div>
-</div>
-<!-- Similar projects END -->    
+</div> -->
+<!-- Similar projects END -->

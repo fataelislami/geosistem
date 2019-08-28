@@ -1,25 +1,4 @@
-<div class="mt-bnr-inr overlay-wraper bg-parallax bg-top-center"  data-stellar-background-ratio="0.5"  style="background-image:url(<?= base_url()?>assets-front/images/banner/2.jpg);">
-  <div class="overlay-main bg-black opacity-07"></div>
-    <div class="container">
-        <div class="mt-bnr-inr-entry">
-          <div class="banner-title-outer">
-              <div class="banner-title-name">
-                <h2 class="m-b0">In our work we have pride, quality is what we provide.</h2>
-                </div>
-            </div>
-            <!-- BREADCRUMB ROW -->
 
-                <div>
-                    <ul class="mt-breadcrumb breadcrumb-style-2">
-                        <li><a href="javascript:void(0);">Home</a></li>
-                        <li>Blog Grid</li>
-                    </ul>
-                </div>
-
-            <!-- BREADCRUMB ROW END -->
-        </div>
-    </div>
-</div>
 <!-- INNER PAGE BANNER END -->
 
 <!-- SECTION CONTENT START -->
@@ -27,6 +6,13 @@
 
     <!-- GALLERY CONTENT START -->
     <div class="container">
+      <div class="section-head">
+      <div class="mt-separator-outer separator-left">
+        <div class="mt-separator">
+          <h2 class="text-uppercase sep-line-one "><span class="font-weight-300 text-primary">News &</span> Events</h2>
+        </div>
+      </div>
+      </div>
         <div class="portfolio-wrap mfp-gallery news-grid clearfix row ">
 
             <!-- COLUMNS 1 -->

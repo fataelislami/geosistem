@@ -102,9 +102,9 @@
                                 </div>
 
                             </li>
-                            <li class="btn-col-last">
+                            <!-- <li class="btn-col-last">
                                 <a class="site-button-secondry btn-effect">Requet a Quote</a>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </div>
@@ -201,10 +201,10 @@
                                     </li>
 
                                     <li>
-                                        <a href="<?= base_url()?>front/about_us">About us</a>
+                                        <a href="<?= base_url()?>about-us">About us</a>
                                     </li>
                                     <li>
-                                        <a href="<?= base_url()?>front/project">Product</a>
+                                        <a href="<?= base_url()?>product">Product</a>
                                     </li>
                                     <li>
                                         <a href="<?= base_url()?>front/services">Services</a>
@@ -357,10 +357,10 @@
                                   </li>
 
                                   <li>
-                                      <a href="<?= base_url()?>front/about_us">About us</a>
+                                      <a href="<?= base_url()?>about-us">About us</a>
                                   </li>
                                   <li>
-                                      <a href="<?= base_url()?>front/project">Product</a>
+                                      <a href="<?= base_url()?>product">Product</a>
                                   </li>
                                   <li>
                                       <a href="<?= base_url()?>front/services">Services</a>
@@ -395,13 +395,13 @@
 
         <!-- FOOTER START -->
         <footer class="site-footer footer-large  footer-light	footer-wide">
-            <div class="container call-to-action-wrap bg-no-repeat bg-center" style="background-image:url(<?= base_url()?>assets-front/images/background/bg-site.png);">
+            <!-- <div class="container call-to-action-wrap bg-no-repeat bg-center" style="background-image:url(<?= base_url()?>assets-front/images/background/bg-site.png);">
                 <div class="p-a30  bg-primary">
                     <div class="row">
                         <div class="col-md-8 col-sm-8">
                             <div class="call-to-action-left text-black" style="color:#FFFFFF">
                                 <h4 class="text-uppercase m-b10 m-t0" style="color:#FFFFFF">Subscribe to our newsletter!</h4>
-                                <span>Never Miss Anything From Construx By Signing Up To Our Newsletter.</span>
+                                <span>Never Miss Anything From Geosistem By Signing Up To Our Newsletter.</span>
                             </div>
                         </div>
 
@@ -423,7 +423,7 @@
                         </div>
                     </div>
                  </div>
-            </div>
+            </div> -->
             <!-- FOOTER BLOCKES START -->
             <div class="footer-top overlay-wraper">
                 <div class="overlay-main"></div>
@@ -549,7 +549,7 @@
 <div class="loading-area">
     <div class="loading-box"></div>
     <div class="loading-pic">
-        <div class="cssload-loader">Loading</div>
+        <div class="cssload-loader" style="color:#0c733a">Geosistem</div>
     </div>
 </div>
 <!-- LOADING AREA  END ====== -->

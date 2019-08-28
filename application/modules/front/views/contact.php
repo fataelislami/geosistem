@@ -1,28 +1,4 @@
 
-    <!-- INNER PAGE BANNER -->
-    <div class="mt-bnr-inr overlay-wraper bg-parallax bg-top-center"  data-stellar-background-ratio="0.5"  style="background-image:url(<?= base_url()?>assets-front/images/banner/4.jpg);">
-      <div class="overlay-main bg-black opacity-07"></div>
-        <div class="container">
-            <div class="mt-bnr-inr-entry">
-              <div class="banner-title-outer">
-                  <div class="banner-title-name">
-                    <h2 class="m-b0">Putting a plan to action, to assure your satisfaction!</h2>
-                    </div>
-                </div>
-                <!-- BREADCRUMB ROW -->
-
-                    <div>
-                        <ul class="mt-breadcrumb breadcrumb-style-2">
-                            <li><a href="javascript:void(0);">Home</a></li>
-                            <li>Contact Us</li>
-                        </ul>
-                    </div>
-
-                <!-- BREADCRUMB ROW END -->
-            </div>
-        </div>
-    </div>
-    <!-- INNER PAGE BANNER END -->
 
     <!-- SECTION CONTENTG START -->
     <div class="section-full p-tb80 inner-page-padding">

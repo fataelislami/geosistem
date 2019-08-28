@@ -31,12 +31,6 @@ class Front extends MY_Controller{
     );
     $this->template->loadfront($data);
   }
-  function project_detail(){
-    $data=array(
-      'content'=>'front/project-detail'
-    );
-    $this->template->loadfront($data);
-  }
 
   function news(){
     $data=array(
@@ -64,12 +58,7 @@ class Front extends MY_Controller{
     );
     $this->template->loadfront($data);
   }
-  function project(){
-    $data=array(
-      'content'=>'front/project'
-    );
-    $this->template->loadfront($data);
-  }
+
   function p404(){
     $data=array(
       'content'=>'front/404'
