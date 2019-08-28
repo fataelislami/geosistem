@@ -80,7 +80,7 @@
                             <img src="<?= base_url()?>xfile/log-geo.png" width="60px" alt="" />
                         </a>
                     </div>
-                    <div class="header-info">
+                    <!-- <div class="header-info">
                         <ul>
                         	<li>
                                 <div class="icon-sm">
@@ -102,11 +102,8 @@
                                 </div>
 
                             </li>
-                            <!-- <li class="btn-col-last">
-                                <a class="site-button-secondry btn-effect">Requet a Quote</a>
-                            </li> -->
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
             </div>
 
@@ -153,7 +150,7 @@
                                             <div class="icon-xs m-b20 scale-in-center"><i class="fa fa-envelope"></i></div>
                                             <div class="icon-content">
                                                 <h5 class="m-t0 font-weight-500">Email address</h5>
-                                                <p>info@geosiste.co.id</p>
+                                                <p>info@geosistem.co.id</p>
                                             </div>
                                         </div>
 
@@ -251,13 +248,13 @@
                     <div class="row">
                         <div class="mt-topbar-left clearfix">
                             <ul class="list-unstyled e-p-bx pull-right">
-                                <li><i class="fa fa-envelope"></i> info@geosiste.co.id</li>
+                                <li><i class="fa fa-envelope"></i> info@geosistem.co.id</li>
                                 <li><i class="fa fa-phone"></i>(075) 123-7654</li>
                                 <li><i class="fa fa-clock-o"></i>Sun-Sat 9.45 am</li>
                             </ul>
                         </div>
                         <div class="mt-topbar-right clearfix">
-                            <div class="appint-btn"><a href="#" class="site-button" style="color:#FFFFFF">Make an Appointment</a></div>
+                            <!-- <div class="appint-btn"><a href="#" class="site-button" style="color:#FFFFFF">Make an Appointment</a></div> -->
                         </div>
                     </div>
                 </div>
@@ -311,7 +308,7 @@
                                                 <div class="icon-xs m-b20 scale-in-center"><i class="fa fa-envelope"></i></div>
                                                 <div class="icon-content">
                                                     <h5 class="m-t0 font-weight-500">Email address</h5>
-                                                    <p>info@geosiste.co.id</p>
+                                                    <p>info@geosistem.co.id</p>
                                                 </div>
                                             </div>
 
@@ -450,15 +447,16 @@
 
                         <!-- RESENT POST -->
                         <div class="col-lg-3 col-md-6 col-sm-6">
-                            <div class="widget widget_address_outer">
-                                <h4 class="widget-title">Contact Us</h4>
-                                <ul class="widget_address">
-                                    <li>Wisma SIER,1st Floor Rungkut Industri Raya No 10 Surabaya 60293 Indonesia</li>
-                                    <li>info@geosistem.co.id</li>
-                                    <li>(+62) 8475062</li>
-                                </ul>
-
-                            </div>
+                          <div class="widget widget_services inline-links">
+                              <h4 class="widget-title">Navigation</h4>
+                              <ul>
+                                  <li><a href="<?= base_url()?>about-us">About Us</a></li>
+                                  <li><a href="<?= base_url()?>product">Product</a></li>
+                                  <li><a href="<?= base_url()?>front/services">Services</a></li>
+                                  <li><a href="#">Experiences</a></li>
+                                  <li><a href="<?= base_url()?>front/contact">Contact</a></li>
+                              </ul>
+                          </div>
                         </div>
 
                         <!-- USEFUL LINKS -->
@@ -476,48 +474,15 @@
 
                         <!-- TAGS -->
                         <div class="col-lg-3 col-md-6 col-sm-6">
-							<div class="widget recent-posts-entry-date">
-                                <h4 class="widget-title">Resent Post</h4>
-                                <div class="widget-post-bx">
-                                    <div class="bdr-light-blue widget-post clearfix  bdr-b-1 m-b10 p-b10">
-                                        <div class="mt-post-date text-center text-uppercase text-white p-tb5">
-											<strong class="p-date">24</strong>
-                                            <span class="p-month">April</span>
-                                            <span class="p-year">2019</span>
-                                        </div>
-                                        <div class="mt-post-info">
-                                            <div class="mt-post-header">
-                                                <h6 class="post-title"><a href="<?= base_url()?>assets-front/blog-single.html">On these beams, we’re building dreams.</a></h6>
-                                            </div>
-                                            <div class="mt-post-meta">
-                                                <ul>
-                                                    <li class="post-author"><i class="fa fa-user"></i>By Admin</li>
-                                                    <li class="post-comment"><i class="fa fa-comments"></i> 28</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="bdr-light-blue widget-post clearfix  bdr-b-1 m-b10 p-b10">
-                                        <div class="mt-post-date text-center text-uppercase text-white p-tb5">
-                                            <strong class="p-date">30</strong>
-                                            <span class="p-month">May</span>
-                                            <span class="p-year">2019</span>
-                                        </div>
-                                        <div class="mt-post-info">
-                                            <div class="mt-post-header">
-                                                <h6 class="post-title"><a href="<?= base_url()?>assets-front/blog-single.html">We’ll be a sensation for you next renovation</a></h6>
-                                            </div>
-                                            <div class="mt-post-meta">
-                                                <ul>
-                                                    <li class="post-author"><i class="fa fa-user"></i>By Admin</li>
-                                                    <li class="post-comment"><i class="fa fa-comments"></i> 29</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
+                          <div class="widget widget_address_outer">
+                              <h4 class="widget-title">Contact Us</h4>
+                              <ul class="widget_address">
+                                  <li>Wisma SIER,1st Floor Rungkut Industri Raya No 10 Surabaya 60293 Indonesia</li>
+                                  <li>info@geosistem.co.id</li>
+                                  <li>(+62) 8475062</li>
+                              </ul>
 
-                                </div>
-                            </div>
+                          </div>
                         </div>
                         <!-- NEWSLETTER -->
 

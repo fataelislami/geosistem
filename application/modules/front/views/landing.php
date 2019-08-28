@@ -87,7 +87,7 @@
                             font-weight: 700;
                             color:#111;
                             border-width:0px;font-family: 'Poppins', sans-serif; text-transform:uppercase ;">
-                            <div>We Build Your Dream</div>
+                            <!-- <div>We Build Your Dream</div> -->
 
                             </div>
 
@@ -121,7 +121,7 @@
                             font-weight: 500;
                             color:#111;
                              border-width:0px;font-family: 'Poppins', sans-serif;">
-                            It is a long established fact that a reader will be distracted by the readable content.
+                            <!-- It is a long established fact that a reader will be distracted by the readable content. -->
 
                             </div>
 
@@ -146,7 +146,7 @@
                             data-paddingleft="[0,0,0,0]"
 
                             style="z-index:100; text-transform:uppercase; margin:10px">
-                            <a href="<?= base_url()?>assets-front/javascript:;" class="site-button-secondry btn-effect">More About</a>
+                            <!-- <a href="<?= base_url()?>assets-front/javascript:;" class="site-button-secondry btn-effect">More About</a> -->
                             </div>
 
 
@@ -171,7 +171,7 @@
                             data-paddingleft="[0,0,0,0]"
 
                             style="z-index:100; text-transform:uppercase; margin:10px">
-                            <a href="<?= base_url()?>assets-front/javascript:;" class="site-button btn-effect">Contact Us</a>
+                            <!-- <a href="<?= base_url()?>assets-front/javascript:;" class="site-button btn-effect">Contact Us</a> -->
                             </div>
                         </li>
 
@@ -259,7 +259,7 @@
                             font-weight: 700;
                             color:#111;
                             border-width:0px;font-family: 'Poppins', sans-serif; text-transform:uppercase ;">
-                            <div>From concept to creation.</div>
+                            <!-- <div>From concept to creation.</div> -->
 
                             </div>
 
@@ -293,7 +293,7 @@
                             font-weight: 500;
                             color:#111;
                              border-width:0px;font-family: 'Poppins', sans-serif;">
-                            It is a long established fact that a reader will be distracted by the readable content.
+                            <!-- It is a long established fact that a reader will be distracted by the readable content. -->
 
                             </div>
 
@@ -318,7 +318,7 @@
                             data-paddingleft="[0,0,0,0]"
 
                             style="z-index:100; text-transform:uppercase;margin:10px">
-                            <a href="<?= base_url()?>assets-front/javascript:;" class="site-button-secondry btn-effect ">More About</a>
+                            <!-- <a href="<?= base_url()?>assets-front/javascript:;" class="site-button-secondry btn-effect ">More About</a> -->
                             </div>
 
                             <!-- LAYER NR. 6 [ for see all service botton ] -->
@@ -342,7 +342,7 @@
                             data-paddingleft="[0,0,0,0]"
 
                             style="z-index:100; text-transform:uppercase; margin:10px">
-                            <a href="<?= base_url()?>assets-front/javascript:;" class="site-button btn-effect">Contact Us</a>
+                            <!-- <a href="<?= base_url()?>assets-front/javascript:;" class="site-button btn-effect">Contact Us</a> -->
                             </div>
 
                         </li>
@@ -428,7 +428,7 @@
                             font-weight: 700;
                             color:#111;
                             border-width:0px;font-family: 'Poppins', sans-serif; text-transform:uppercase ;">
-                            <div>Making dreams come to life</div>
+                            <!-- <div>Making dreams come to life</div> -->
 
                             </div>
 
@@ -459,7 +459,7 @@
                             font-weight: 500;
                             color:#111;
                              border-width:0px;font-family: 'Poppins', sans-serif;">
-                            It is a long established fact that a reader will be distracted by the readable content.
+                            <!-- It is a long established fact that a reader will be distracted by the readable content. -->
 
                             </div>
 
@@ -484,7 +484,7 @@
                             data-paddingleft="[0,0,0,0]"
 
                             style="z-index:100; text-transform:uppercase;margin:10px">
-                            <a href="<?= base_url()?>assets-front/javascript:;" class="site-button-secondry btn-effect">More About</a>
+                            <!-- <a href="<?= base_url()?>assets-front/javascript:;" class="site-button-secondry btn-effect">More About</a> -->
                             </div>
 
                             <!-- LAYER NR. 6 [ for see all service botton ] -->
@@ -508,7 +508,7 @@
                             data-paddingleft="[0,0,0,0]"
 
                             style="z-index:100; text-transform:uppercase; margin:10px">
-                            <a href="<?= base_url()?>assets-front/javascript:;" class="site-button btn-effect">Contact Us</a>
+                            <!-- <a href="<?= base_url()?>assets-front/javascript:;" class="site-button btn-effect">Contact Us</a> -->
                             </div>
 
                         </li>
@@ -591,7 +591,7 @@
                             font-weight: 700;
                             color:#111;
                             border-width:0px;font-family: 'Poppins', sans-serif; text-transform:uppercase ;">
-                            <div>Making dreams come to life</div>
+                            <!-- <div>Making dreams come to life</div> -->
 
                             </div>
 
@@ -622,7 +622,7 @@
                             font-weight: 500;
                             color:#111;
                              border-width:0px;font-family: 'Poppins', sans-serif;">
-                            It is a long established fact that a reader will be distracted by the readable content.
+                            <!-- It is a long established fact that a reader will be distracted by the readable content. -->
 
                             </div>
 
@@ -647,7 +647,7 @@
                             data-paddingleft="[0,0,0,0]"
 
                             style="z-index:100; text-transform:uppercase;margin:10px">
-                            <a href="<?= base_url()?>assets-front/javascript:;" class="site-button-secondry btn-effect">More About</a>
+                            <!-- <a href="<?= base_url()?>assets-front/javascript:;" class="site-button-secondry btn-effect">More About</a> -->
                             </div>
 
                             <!-- LAYER NR. 6 [ for see all service botton ] -->
@@ -671,7 +671,7 @@
                             data-paddingleft="[0,0,0,0]"
 
                             style="z-index:100; text-transform:uppercase; margin:10px">
-                            <a href="<?= base_url()?>assets-front/javascript:;" class="site-button btn-effect">Contact Us</a>
+                            <!-- <a href="<?= base_url()?>assets-front/javascript:;" class="site-button btn-effect">Contact Us</a> -->
                             </div>
 
                         </li>
@@ -693,7 +693,7 @@
                             	<div class="half-blocks">
                                     <div class="mt-icon-box-wraper center m-b30">
                                         <div class="half-block-content icon-count-2 p-a30 p-tb50">
-                                            <span class="icon-count-number">1</span>
+                                            <span class="icon-count-number"></span>
                                             <!-- <div class="mt-icon-box-lg radius bg-gray m-b20 scale-in-center">
                                                 <span class="icon-cell"><img src="<?= base_url()?>assets-front/images/icon/compass.png" alt=""></span>
                                             </div> -->
@@ -703,7 +703,7 @@
                                                 <a href="<?= base_url()?>product" class="site-button-link" data-hover="Detail">Detail <i class="fa fa-angle-right arrow-animation"></i></a>
                                             </div>
                                         </div>
-                                        <div class="bg-cover  half-blocks-bg" style="background-image:url(<?= base_url()?>xfile/home/home1.jpg)"></div>
+                                        <div class="bg-cover  half-blocks-bg" style="background-image:url(<?= base_url()?>xfile/product/home.jpg)"></div>
                                     </div>
                                 </div>
 
@@ -712,7 +712,7 @@
                             <div class="half-blocks">
                                 <div class="mt-icon-box-wraper center m-b30">
                                     <div class="half-block-content icon-count-2 bg-gray p-a30 p-tb50">
-                                        <span class="icon-count-number">2</span>
+                                        <span class="icon-count-number"></span>
                                         <!-- <div class="mt-icon-box-lg radius bg-gray m-b20 scale-in-center">
                                             <span class="icon-cell"><img src="<?= base_url()?>assets-front/images/icon/crane-1.png" alt=""></span>
                                         </div> -->
@@ -904,11 +904,7 @@
                                     <div class="video-part-2">
                                             <h3>One Stop Service<span class="font-weight-100"> Solution</span></h3>
      										<p  style="text-align:justify">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.there are many 																				                                                     variations of passages of Ipsum available,</p>
-                                            <ul class="list-angle-right anchor-line">
-                                                <li><a href="<?= base_url()?>assets-front/#">Construction Management</a></li>
-                                                <li><a href="<?= base_url()?>assets-front/#">Pre Construction Services</a></li>
-                                                <li><a href="<?= base_url()?>assets-front/#">Contract Administration</a></li>
-                                            </ul>
+
                                     </div>
                                     <!-- TITLE END -->
                                     <div class="author-info author-info-v2 p-t20">
@@ -1019,11 +1015,20 @@
 							<div class="filter-wrap text-center">
                                 <ul class="filter-navigation inline-navigation masonry-filter link-style  text-uppercase">
                                     <li class="active"><a data-filter="*" href="<?= base_url()?>assets-front/#" data-hover="All">All</a></li>
-                                    <li><a data-filter=".cat-1" href="<?= base_url()?>assets-front/#" data-hover="Toll">Toll</a></li>
-                                    <li><a data-filter=".cat-2" href="<?= base_url()?>assets-front/#" data-hover="Road">Road</a></li>
-                                    <li><a data-filter=".cat-3" href="<?= base_url()?>assets-front/#" data-hover="Dam">Dam</a></li>
-                                    <li><a data-filter=".cat-4" href="<?= base_url()?>assets-front/#" data-hover="Water Pom">Water Pom </a></li>
-                                    <li><a data-filter=".cat-5" href="<?= base_url()?>assets-front/#" data-hover="Harbour">Harbour</a></li>
+                                    <li><a data-filter=".cat-1" href="<?= base_url()?>assets-front/#" data-hover="Toll Road">Toll Road</a></li>
+                                    <li><a data-filter=".cat-2" href="<?= base_url()?>assets-front/#" data-hover="Airport">Airport</a></li>
+                                    <li><a data-filter=".cat-3" href="<?= base_url()?>assets-front/#" data-hover="Sea Port">Sea Port</a></li>
+                                    <li><a data-filter=".cat-4" href="<?= base_url()?>assets-front/#" data-hover="Dam">Dam</a></li>
+                                    <br>
+                                    <li><a data-filter=".cat-5" href="<?= base_url()?>assets-front/#" data-hover="Power Plan">Power Plan</a></li>
+                                    <li><a data-filter=".cat-5" href="<?= base_url()?>assets-front/#" data-hover="Oil & Gas Mining">Oil & Gas Mining</a></li>
+                                    <li><a data-filter=".cat-5" href="<?= base_url()?>assets-front/#" data-hover="Stadium">Stadium</a></li>
+                                    <li><a data-filter=".cat-5" href="<?= base_url()?>assets-front/#" data-hover="Real Estate">Real Estate</a></li>
+                                    <li><a data-filter=".cat-5" href="<?= base_url()?>assets-front/#" data-hover="Industrial Estate">Industrial Estate</a></li>
+                                    <li><a data-filter=".cat-5" href="<?= base_url()?>assets-front/#" data-hover="Landfill">Landfill</a></li>
+
+
+
                                 </ul>
                             </div>
 
