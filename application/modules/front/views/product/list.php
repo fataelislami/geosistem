@@ -14,7 +14,7 @@
 
         <!-- GALLERY CONTENT START -->
 
-        <div class="portfolio-wrap mfp-gallery work-grid row clearfix">
+        <div class="portfolio-wrap mfp-gallery work-grid row clearfix desktop-product">
            <!-- COLUMNS 1 -->
 
            <div class="masonry-item cat-3 col-lg-4 col-md-4 col-sm-6 col-xs-6 m-b30">
@@ -165,11 +165,122 @@
                </div>
            </div>
 
+
            <!-- COLUMNS 7 -->
 
            <!-- COLUMNS 8 -->
 
         </div>
+        <!-- Mobile -->
+        <div class="widget bg-white recent-posts-entry mobile-product">
+                                                    <div class="section-content">
+                                                        <div class="widget-post-bx">
+                                                          <a href="<?= base_url().'product/contoh' ?>">
+                                                            <div class="our-team-1 widget-post clearfix" style="text-align:left;padding:15px">
+                                                                <div class="mt-post-media">
+                                                                    <img src="<?= base_url()?>xfile/product/instrumentation.jpg" style="height:100px;width:100px;object-fit:cover" alt="">
+                                                                </div>
+                                                                <div class="mt-post-info">
+                                                                    <div class="mt-post-meta" style="margin-bottom:5px">
+                                                                        <ul>
+                                                                            <li class="post-author" style="font-size:18px">Instrumentation</li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    <div class="mt-post-header">
+                                                                        <h6 class="post-title">Geotechnical instnument are necessary deemed to oontrol any manageable problems wi...</h6>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            </a>
+                                                            <a href="<?= base_url().'product/contoh' ?>">
+                                                            <div class="our-team-1 widget-post clearfix" style="text-align:left;padding:15px">
+                                                                <div class="mt-post-media">
+                                                                    <img src="<?= base_url()?>xfile/product/geosynthetic.jpg" style="height:100px;width:100px;object-fit:cover" alt="">
+                                                                </div>
+                                                                <div class="mt-post-info">
+                                                                    <div class="mt-post-meta" style="margin-bottom:5px">
+                                                                        <ul>
+                                                                            <li class="post-author" style="font-size:18px">Geosynthetic Clay Liners</li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    <div class="mt-post-header">
+                                                                        <h6 class="post-title">Geotechnical instnument are necessary deemed to oontrol any manageable problems wi...</h6>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            </a>
+                                                            <a href="<?= base_url().'product/contoh' ?>">
+                                                            <div class="our-team-1 widget-post clearfix" style="text-align:left;padding:15px">
+                                                                <div class="mt-post-media">
+                                                                    <img src="<?= base_url()?>xfile/product/pvd.jpg" style="height:100px;width:100px;object-fit:cover" alt="">
+                                                                </div>
+                                                                <div class="mt-post-info">
+                                                                    <div class="mt-post-meta" style="margin-bottom:5px">
+                                                                        <ul>
+                                                                            <li class="post-author" style="font-size:18px">Prefabricated Vertical Drain</li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    <div class="mt-post-header">
+                                                                        <h6 class="post-title">Geotechnical instnument are necessary deemed to oontrol any manageable problems wi...</h6>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            </a>
+                                                            <a href="<?= base_url().'product/contoh' ?>">
+                                                            <div class="our-team-1 widget-post clearfix" style="text-align:left;padding:15px">
+                                                                <div class="mt-post-media">
+                                                                    <img src="<?= base_url()?>xfile/product/geogrid.jpg" style="height:100px;width:100px;object-fit:cover" alt="">
+                                                                </div>
+                                                                <div class="mt-post-info">
+                                                                    <div class="mt-post-meta" style="margin-bottom:5px">
+                                                                        <ul>
+                                                                            <li class="post-author" style="font-size:18px">Geogrid</li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    <div class="mt-post-header">
+                                                                        <h6 class="post-title">Geotechnical instnument are necessary deemed to oontrol any manageable problems wi...</h6>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            </a>
+                                                            <a href="<?= base_url().'product/contoh' ?>">
+                                                            <div class="our-team-1 widget-post clearfix" style="text-align:left;padding:15px">
+                                                                <div class="mt-post-media">
+                                                                    <img src="<?= base_url()?>xfile/product/geomembrane.jpg" style="height:100px;width:100px;object-fit:cover" alt="">
+                                                                </div>
+                                                                <div class="mt-post-info">
+                                                                    <div class="mt-post-meta" style="margin-bottom:5px">
+                                                                        <ul>
+                                                                            <li class="post-author" style="font-size:18px">Geomembrane</li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    <div class="mt-post-header">
+                                                                        <h6 class="post-title">Geotechnical instnument are necessary deemed to oontrol any manageable problems wi...</h6>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                          </a>
+                                                          <a href="<?= base_url().'product/contoh' ?>">
+                                                            <div class="our-team-1 widget-post clearfix" style="text-align:left;padding:15px">
+                                                                <div class="mt-post-media">
+                                                                    <img src="<?= base_url()?>xfile/product/geotextile.jpg" style="height:100px;width:100px;object-fit:cover" alt="">
+                                                                </div>
+                                                                <div class="mt-post-info">
+                                                                    <div class="mt-post-meta" style="margin-bottom:5px">
+                                                                        <ul>
+                                                                            <li class="post-author" style="font-size:18px">Geotextile</li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    <div class="mt-post-header">
+                                                                        <h6 class="post-title">Geotechnical instnument are necessary deemed to oontrol any manageable problems wi...</h6>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                          </a>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
         <!-- GALLERY CONTENT END -->
 
         <div class="m-t50 text-center">
@@ -179,4 +290,6 @@
 
 
 </div>
+
+
 <!-- SECTION CONTENT END  -->

@@ -14841,10 +14841,12 @@ color:#fff;
 }
 }
 
-
+.mobile-product{display: none;;}
 @media only screen and (max-width:768px){
 .mobile-page-padding{padding:30px 0px;}
 .inner-page-padding{padding:30px 0px;}
+.mobile-product{display: block;}
+.desktop-product{display: none;}
 
 .get-in-touch-form-section{
 	position:inherit;
