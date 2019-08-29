@@ -1157,44 +1157,31 @@
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="<?= base_url()?>assets-front/javascript:void(0);"><img src="<?= base_url()?>assets-front/images/client-logo/w1.png" alt=""></a></div>
+                                            <a href="<?= base_url()?>assets-front/javascript:void(0);"><img src="<?= base_url()?>xfile/client/freeport.png" alt=""></a></div>
                                         </div>
                                     </div>
 
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="<?= base_url()?>assets-front/javascript:void(0);"><img src="<?= base_url()?>assets-front/images/client-logo/w2.png" alt=""></a></div>
+                                            <a href="<?= base_url()?>assets-front/javascript:void(0);"><img src="<?= base_url()?>xfile/client/podomoro.png" alt=""></a></div>
                                         </div>
                                     </div>
 
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="<?= base_url()?>assets-front/javascript:void(0);"><img src="<?= base_url()?>assets-front/images/client-logo/w3.png" alt=""></a></div>
+                                            <a href="<?= base_url()?>assets-front/javascript:void(0);"><img src="<?= base_url()?>xfile/client/pp.jpg" alt=""></a></div>
                                         </div>
                                     </div>
 
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="<?= base_url()?>assets-front/javascript:void(0);"><img src="<?= base_url()?>assets-front/images/client-logo/w4.png" alt=""></a></div>
+                                            <a href="<?= base_url()?>assets-front/javascript:void(0);"><img src="<?= base_url()?>xfile/client/waskita.png" alt=""></a></div>
                                         </div>
                                     </div>
 
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="<?= base_url()?>assets-front/javascript:void(0);"><img src="<?= base_url()?>assets-front/images/client-logo/w5.png" alt=""></a></div>
-                                        </div>
-                                    </div>
-
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="<?= base_url()?>assets-front/javascript:void(0);"><img src="<?= base_url()?>assets-front/images/client-logo/w6.png" alt=""></a></div>
-                                        </div>
-                                    </div>
 
                                 </div>
                             </div>
