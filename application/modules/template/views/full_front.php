@@ -76,7 +76,7 @@
             <div class="header-middle bg-white">
                 <div class="container">
                     <div class="logo-header">
-                        <a href="<?= base_url()?>assets-front/index.html">
+                        <a href="<?= base_url()?>">
                             <img src="<?= base_url()?>xfile/log-geo.png" width="60px" alt="" />
                         </a>
                     </div>
@@ -264,7 +264,7 @@
                     <div class="container">
                         <div class="logo-header">
                             <div class="logo-header-inner logo-header-one">
-                                <a href="index.html">
+                                <a href="<?= base_url() ?>">
                                     <img src="<?= base_url() ?>xfile/log-geo.png" alt="" width="60px"/>
                                 </a>
                             </div>
@@ -431,7 +431,7 @@
                             <div class="widget widget_about">
                                 <!--<h4 class="widget-title">About Company</h4>-->
                                 <div class="logo-footer clearfix p-b15">
-                                    <a href="<?= base_url()?>assets-front/index.html"><img src="<?= base_url()?>xfile/log-geo.png" width="80px" alt=""></a>
+                                    <a href="<?= base_url()?>"><img src="<?= base_url()?>xfile/log-geo.png" width="80px" alt=""></a>
                                 </div>
 								<p class="max-w400">PT.Teknikindo Geosistem Superior offers a comprehensive range of services that include site investigation, the proposed project design, implementation of soil remediation work,application of geosynthetics, geotechnical and monitoring instrumentation.</p>
 
