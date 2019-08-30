@@ -934,7 +934,7 @@
                                     <div class="author-info author-info-v2 p-t20">
 
                                         <div class="author-signature">
-                                            <img src="<?= base_url()?>xfile/ttd.png" alt="Signature" width="150">
+                                            <img style="height:100px;width:200px" src="<?= base_url()?>xfile/ttd.png" alt="Signature" width="150">
                                         </div>
                                         <div class="author-name">
                                             <h4 class="m-t0">Heru Putranto</h4>
