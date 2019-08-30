@@ -60,7 +60,7 @@
                         <div class="author-info p-t20">
 
                             <div class="author-signature">
-                                <img src="<?= base_url()?>assets-front/images/Signature+Black.png" alt="Signature" width="150"/>
+                                <img src="<?= base_url()?>xfile/ttd.png" alt="Signature" width="150"/>
                             </div>
 
                             <div class="author-name">
