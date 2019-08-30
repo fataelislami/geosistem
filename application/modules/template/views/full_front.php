@@ -207,26 +207,8 @@
                                         <a href="<?= base_url()?>front/services">Services</a>
                                     </li>
                                     <li>
-                                        <a href="#">Experiences</a>
-                                        <ul class="sub-menu">
-                                            <li>
-                                                <a href="<?= base_url()?>assets-front/javascript:;">Blog</a>
-                                                <ul class="sub-menu has-child">
-                                                    <li><a href="<?= base_url()?>assets-front/blog-grid.html">Blog Grid</a></li>
-                                                    <li><a href="<?= base_url()?>assets-front/blog-listing.html">Blog Listing</a></li>
-                                                    <li><a href="<?= base_url()?>assets-front/blog-masonry.html">Blog Masonry</a></li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="#">Customers</a>
-                                            </li>
-                                            <li>
-                                                <a href="#">Publications</a>
-                                            </li>
-                                            <li>
-                                                <a href="<?= base_url()?>assets-front/contact-1.html">News and Events</a>
-                                            </li>
-                                        </ul>
+                                        <a href="<?= base_url()?>experiences">Experiences</a>
+
                                     </li>
                                     <li>
                                         <a href="<?= base_url()?>front/contact">Contact</a>
