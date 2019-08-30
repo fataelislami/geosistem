@@ -53,6 +53,8 @@ $route['default_controller'] = 'front';
 $route['product']='front/product';
 $route['product/(:any)']='front/product/$1';
 $route['about-us']='front/about_us';
+$route['experiences']='front/experiences';
+
 
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
