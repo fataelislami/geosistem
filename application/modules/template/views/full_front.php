@@ -363,7 +363,7 @@
                                       <a href="<?= base_url()?>front/services">Services</a>
                                   </li>
                                   <li>
-                                      <a href="#">Experiences</a>
+                                      <a href="<?= base_url()?>experiences">Experiences</a>
                                   </li>
                                   <li>
                                       <a href="<?= base_url()?>front/contact">Contact</a>
@@ -453,7 +453,7 @@
                                   <li><a href="<?= base_url()?>about-us">About Us</a></li>
                                   <li><a href="<?= base_url()?>product">Product</a></li>
                                   <li><a href="<?= base_url()?>front/services">Services</a></li>
-                                  <li><a href="#">Experiences</a></li>
+                                  <li><a href="<?= base_url()?>experiences">Experiences</a></li>
                                   <li><a href="<?= base_url()?>front/contact">Contact</a></li>
                               </ul>
                           </div>

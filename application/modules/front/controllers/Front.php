@@ -66,6 +66,13 @@ class Front extends MY_Controller{
     $this->template->loadfront($data);
   }
 
+  function experiences(){
+    $data=array(
+      'content'=>'front/experiences'
+    );
+    $this->template->loadfront($data);
+  }
+
 
 
 }
